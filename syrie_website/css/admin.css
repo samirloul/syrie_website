@@ -1,0 +1,7 @@
+body { font-family: Arial; background: #f7f7f7; color: #333; }
+.quick-actions { display: flex; gap: 1rem; margin: 2rem; }
+.action-btn { background: #007BFF; color: white; padding: 1rem; text-decoration: none; border-radius: .5rem; }
+.action-btn:hover { background: #0056b3; }
+form { margin: 2rem; }
+input, textarea, select { display: block; margin-bottom: 1rem; width: 100%; }
+button { background: green; color: white; padding: .5rem 1rem; border: none; cursor: pointer; }
