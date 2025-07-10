@@ -146,7 +146,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 <div class="contact-info">
 <h2>معلومات الاتصال</h2>
-<p>البريد الإلكتروني: syriawebsite@gmail.com</p>
+<p>البريد الإلكتروني: abdsam1243@gmail.com</p>
 <p>يتم إدارة هذا الموقع بكل حب ❤️. نرد عادة خلال 24 ساعة.</p>
 </section>
 </main>

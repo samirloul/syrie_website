@@ -11,10 +11,10 @@
 
 <footer>
     <div class="footer-content">
-        <div class="footer-section">
+        <div class="footer-section" >
             <h4>عن هذا الموقع</h4>
             <p>
-                هذا الموقع مخصص لمشاركة المعرفة حول التاريخ الغني والثقافة وجمال سوريا. 
+                هذا الموقع مخصص لمشاركة المعرفة حول التاريخ الغني والثقافة وجمال سوريا.
                 اكتشف القصص الرائعة لهذه الأرض التاريخية.
             </p>
         </div>
@@ -31,48 +31,43 @@
             </ul>
         </div>
 
-        <div class="footer-section">
+        <div class="footer-section" style="flex: 1; min-width: 150px;">
             <h4>المحتوى</h4>
             <ul style="list-style: none; padding:0;">
                 <li><a href="index_ar.php">الرئيسية</a></li>
-                <li><a href="../syrie_website/gallery_ar.php">معرض الصور</a></li>
+                <li><a href="gallery_ar.php">معرض الصور</a></li>
                 <li><a href="contact_ar.php">اتصل بنا</a></li>
             </ul>
         </div>
 
-        <div class="footer-section">
+        <div class="footer-section" style="flex: 1; min-width: 200px;">
             <h4>تواصل معنا & تابعنا</h4>
-            <ul style="list-style: none; padding:0; font-size: 1.2rem;">
+            <ul style="list-style: none; padding:0; font-size: 1.1rem;">
                 <li>
-                    <a href="mailto:sameerloul2010@gmail.com">
+                    <a href="mailto:abdsam1243@gmail.com">
                         <i class="fas fa-envelope"></i> البريد الإلكتروني
                     </a>
                 </li>
                 <li>
-                    <a href="https://www.facebook.com/yourpage" target="_blank">
-                        <i class="fab fa-facebook-f"></i> فيسبوك
-                    </a>
-                </li>
-                <li>
-                    <a href="https://www.instagram.com/yourprofile" target="_blank">
+                    <a href="https://www.instagram.com/syria_website?igsh=NmE3am53MnplZTYz&utm_source=qr" target="_blank">
                         <i class="fab fa-instagram"></i> إنستغرام
                     </a>
                 </li>
                 <li>
-                    <a href="https://www.twitter.com/yourhandle" target="_blank">
-                        <i class="fab fa-twitter"></i> تويتر
+                    <a href="https://www.threads.net/@syria_website?igshid=NTc4MTIwNjQ2YQ==" target="_blank">
+                        <i class="fab fa-threads"></i> Threads
                     </a>
                 </li>
                 <li>
-                    <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-                        <i class="fab fa-linkedin-in"></i> لينكدإن
+                    <a href="https://x.com/syria_website?s=21&t=bnMxjOyqb9toPcG8qy4K4A" target="_blank">
+                        <i class="fab fa-x-twitter"></i> X
                     </a>
                 </li>
             </ul>
         </div>
     </div>
 
-    <div class="footer-bottom" style="margin-top: 1rem; text-align: center; font-size: 0.9rem;">
+    <div class="footer-bottom"></div>
         <p>&copy; <?php echo date('Y'); ?> موقع سوريا. جميع الحقوق محفوظة. | تم الإنشاء ❤️ لأغراض تعليمية.</p>
         <p><small>تم تطوير هذا الموقع كمشروع تعليمي ويحتوي على معلومات عن سوريا لأغراض معرفية فقط.</small></p>
     </div>

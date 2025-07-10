@@ -149,7 +149,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 <div class="contact-info">
 <h2>Contact Information</h2>
-<p>Email: syriawebsite@gmail.com.com</p>
+<p>Email: abdsam1243@gmail.com</p>
 <p>This site is maintained from The heart. We usually respond within 24 hours.</p>
 <img class="hart" src="https:/"  alt="">
 <img class="https:"  alt="">
