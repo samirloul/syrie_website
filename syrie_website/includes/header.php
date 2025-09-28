@@ -31,7 +31,6 @@ $arabicPage = str_replace('.php', '_ar.php', $currentFile);
                         <?= $isArabic ? 'ثورة 2011  ' : 'Revolution 2011' ?>
                     </a>
                 </li>   
-                             <li><a href="<?= BASE_URL ?><?= $isArabic ? 'contact_ar.php' : 'contact.php' ?>"><?= $isArabic ? 'اتصل بنا' : 'Contact' ?></a></li>
 
                 <?php if (isLoggedIn()): ?>
                 <li><a href="<?= BASE_URL ?>admin/"><?= $isArabic ? 'لوحة الإدارة' : 'Admin' ?></a></li>

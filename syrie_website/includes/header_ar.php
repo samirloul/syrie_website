@@ -26,7 +26,6 @@ $arabicPage = str_replace('.php', '_ar.php', $currentFile);
                 <li><a href="<?= BASE_URL ?><?= $isArabic ? 'economy_ar.php' : 'economy.php' ?>"><?= $isArabic ? 'الاقتصاد' : 'Economy' ?></a></li>
                 <li><a href="<?= BASE_URL ?><?= $isArabic ? 'gallery_ar.php' : 'gallery.php' ?>"><?= $isArabic ? 'المعرض' : 'Gallery' ?></a></li>
                 <li><a href="<?= BASE_URL ?><?= $isArabic ? 'cities_ar.php' : 'cities.php' ?>"><?= $isArabic ? 'المدن والمحافظات' : 'Cities & Provinces' ?></a></li>
-                <li><a href="<?= BASE_URL ?><?= $isArabic ? 'contact_ar.php' : 'contact.php' ?>"><?= $isArabic ? 'اتصل بنا' : 'Contact' ?></a></li>
 
                 <!-- 🟥 Nieuwe knop -->
                 <li>

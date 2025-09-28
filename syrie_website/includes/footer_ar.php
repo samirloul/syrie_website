@@ -36,18 +36,13 @@
             <ul style="list-style: none; padding:0;">
                 <li><a href="index_ar.php">الرئيسية</a></li>
                 <li><a href="gallery_ar.php">معرض الصور</a></li>
-                <li><a href="contact_ar.php">اتصل بنا</a></li>
             </ul>
         </div>
 
         <div class="footer-section" style="flex: 1; min-width: 200px;">
             <h4>تواصل معنا & تابعنا</h4>
             <ul style="list-style: none; padding:0; font-size: 1.1rem;">
-                <li>
-                    <a href="mailto:abdsam1243@gmail.com">
-                        <i class="fas fa-envelope"></i> البريد الإلكتروني
-                    </a>
-                </li>
+
                 <li>
                     <a href="https://www.instagram.com/syria_website?igsh=NmE3am53MnplZTYz&utm_source=qr" target="_blank">
                         <i class="fab fa-instagram"></i> إنستغرام
